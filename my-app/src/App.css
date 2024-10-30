@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  align-content: center;
+}
+
+.name{
+  height: 30px;
+  width: 300px;
+  margin-bottom: 15px;
+  margin-left: 5px;
+  padding-left: 5px;
+  font-size: 14px;
+}
+
+.send{
+  height: 35px;
+  width: 100px;
+  font-size: 14px;
+  background-color: rgb(166, 244, 166);
+  border-color:rgb(166, 244, 166);
+  color: white;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+.send:hover{
+  background-color: aquamarine;
+  color: black;
+}
